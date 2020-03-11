@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Serialization xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Alex</Name>
+  <Weight>123</Weight>
+  <Size>123</Size>
+  <BMI>81.300813008130092</BMI>
+</Serialization>

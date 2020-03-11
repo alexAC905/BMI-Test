@@ -1,1 +1,0 @@
-{"name":"Alex","weight":"80","size":"182"}

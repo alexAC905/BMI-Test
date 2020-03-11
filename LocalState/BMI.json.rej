@@ -1,0 +1,4 @@
+diff a/LocalState/BMI.json b/LocalState/BMI.json	(rejected hunks)
+@@ -0,0 +1 @@
++{"name":"Alex","weight":"132","size":"130","bmi":78.106508875739635}
+\ No newline at end of file
